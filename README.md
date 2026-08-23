@@ -1,5 +1,5 @@
 <h1 align="center">Bhakti Nimaj</h1>
-<h3 align="center">Full Stack Developer building production-grade systems</h3>
+<h3 align="center">Full Stack Developer building production-grade systems, not just CRUD apps</h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&color=2F81F7&center=true&vCenter=true&width=650&lines=Java+%2B+Spring+Boot+%2B+React+%2B+TypeScript+%2B+PostgreSQL;JWT+Auth+%7C+Real-Time+SSE+%7C+State+Machines+%7C+Concurrency;Turning+complex+backend+problems+into+clean+APIs" alt="Typing SVG" />
@@ -92,12 +92,12 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Bhakti0394&show_icons=true&theme=default&hide_border=true&count_private=true" height="165" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Bhakti0394&hide_border=true" height="165" />
+  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Bhakti0394&show_icons=true&theme=default&hide_border=true&count_private=true" height="165" />
+  <img src="https://streak-stats.demolab.com?user=Bhakti0394&hide_border=true" height="165" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bhakti0394&layout=compact&hide_border=true" height="165" />
+  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Bhakti0394&layout=compact&hide_border=true" height="165" />
 </p>
 
 ---
