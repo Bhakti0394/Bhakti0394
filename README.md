@@ -1,5 +1,5 @@
 <h1 align="center">Bhakti Nimaj</h1>
-<h3 align="center">Full Stack Developer building production-grade systems, not just CRUD apps</h3>
+<h3 align="center">Full Stack Developer building production-grade systems</h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&color=2F81F7&center=true&vCenter=true&width=650&lines=Java+%2B+Spring+Boot+%2B+React+%2B+TypeScript+%2B+PostgreSQL;JWT+Auth+%7C+Real-Time+SSE+%7C+State+Machines+%7C+Concurrency;Turning+complex+backend+problems+into+clean+APIs" alt="Typing SVG" />
@@ -83,16 +83,6 @@
 
 ---
 
-### 📌 Currently Learning
-
-- 🧩 Data Structures & Algorithms
-- 🌱 Spring Boot & Backend Development (advanced)
-- 🗄️ Database Design
-- 🔌 REST API Design
-- 🏗️ System Design
-
----
-
 ### 🎯 Interests
 
 `Full Stack Development` · `Backend Engineering` · `API & Database Design` · `Hackathons` · `Building real-world software`
@@ -120,4 +110,4 @@
   </a>
 </p>
 
-<p align="center"><i>⭐️ From <a href="https://github.com/Bhakti0394">Bhakti0394</a> — always building, always learning.</i></p>
+<p align="center"><i>⭐️ From <a href="https://github.com/Bhakti0394">Bhakti0394</a> — currently deepening expertise in System Design & DSA.</i></p>
