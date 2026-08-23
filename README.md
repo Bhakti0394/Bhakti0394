@@ -92,11 +92,6 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://img.shields.io/github/followers/Bhakti0394?label=Followers&style=for-the-badge&color=2F81F7" />
-  <img src="https://img.shields.io/badge/dynamic/json?url=https://api.github.com/users/Bhakti0394&label=Public%20Repos&query=%24.public_repos&style=for-the-badge&color=2F81F7" />
-</p>
-
-<p align="center">
   <img src="https://streak-stats.demolab.com?user=Bhakti0394&hide_border=true" height="165" />
 </p>
 
