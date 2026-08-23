@@ -1,8 +1,8 @@
-<h1 align="center">Hi there, I'm Bhakti Nimaj 👋</h1>
-<h3 align="center">Full Stack Developer | Java Spring Boot • React • TypeScript • PostgreSQL</h3>
+<h1 align="center">Bhakti Nimaj</h1>
+<h3 align="center">Full Stack Developer building production-grade systems, not just CRUD apps</h3>
 
 <p align="center">
-I build full-stack applications focused on solving real-world problems through clean APIs, scalable backend architecture, and intuitive user experiences.
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&color=2F81F7&center=true&vCenter=true&width=650&lines=Java+%2B+Spring+Boot+%2B+React+%2B+TypeScript+%2B+PostgreSQL;JWT+Auth+%7C+Real-Time+SSE+%7C+State+Machines+%7C+Concurrency;Turning+complex+backend+problems+into+clean+APIs" alt="Typing SVG" />
 </p>
 
 <p align="center">
@@ -12,30 +12,45 @@ I build full-stack applications focused on solving real-world problems through c
   <a href="https://github.com/Bhakti0394">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
   </a>
+  <img src="https://img.shields.io/badge/Open_to-Internships_%26_Collabs-2F81F7?style=for-the-badge" />
 </p>
+
+<div align="center">
+
+| 🏗️ Building | 🎓 Focus | 🔥 Currently |
+|:---:|:---:|:---:|
+| Full-stack systems w/ real backend depth | Backend Engineering & System Design | DSA + Advanced Spring Boot |
+
+</div>
 
 ---
 
-### 🚀 Featured Project
+### 🚀 Flagship Project
 
 <table>
 <tr>
 <td width="100%">
 
 #### 🍽️ QShift — Smart Pre-order & Kitchen Scheduling Platform
+*Eliminates canteen queues through meal pre-ordering, pickup-slot scheduling, and real-time kitchen capacity optimization.*
 
-A full-stack platform designed to eliminate canteen queues through meal pre-ordering, pickup-slot scheduling, and kitchen capacity optimization — built with real production-grade engineering:
+**This isn't a tutorial project — it's engineered like a real production system:**
 
-- 🔐 **JWT authentication** with role-based access control
-- ⚡ **Server-Sent Events (SSE)** for real-time order updates
-- 🔄 **Order lifecycle state machine** with rollback handling
-- 🔒 **Pessimistic locking** & deadlock resolution for concurrent orders
-- 📦 **Recipe-linked inventory deduction** logic
-- 🧠 **Capacity-based auto-assignment** for kitchen scheduling
+| Capability | Engineering Detail |
+|---|---|
+| 🔐 **Security** | JWT auth with full role-based access control |
+| ⚡ **Real-Time** | Server-Sent Events (SSE) streaming live order updates |
+| 🔄 **Reliability** | Order lifecycle state machine with rollback handling |
+| 🔒 **Concurrency** | Pessimistic locking + deadlock resolution under load |
+| 📦 **Inventory** | Recipe-linked stock deduction, auto-synced with orders |
+| 🧠 **Optimization** | Capacity-based auto-assignment for kitchen scheduling |
 
-**Tech Stack:** `Java` `Spring Boot` `React` `TypeScript` `PostgreSQL` `REST APIs`
+**Stack:** `Java` `Spring Boot` `React` `TypeScript` `PostgreSQL` `REST APIs`
 
-🔗 [Frontend Repo](https://github.com/Bhakti0394/QShift-frontend) &nbsp;|&nbsp; 🔗 [Backend Repo](https://github.com/Bhakti0394/QShift-backend)
+<p>
+<a href="https://github.com/Bhakti0394/QShift-frontend"><img src="https://img.shields.io/badge/Frontend_Repo-View_Code-2F81F7?style=flat-square&logo=react&logoColor=white" /></a>
+<a href="https://github.com/Bhakti0394/QShift-backend"><img src="https://img.shields.io/badge/Backend_Repo-View_Code-6DB33F?style=flat-square&logo=springboot&logoColor=white" /></a>
+</p>
 
 </td>
 </tr>
