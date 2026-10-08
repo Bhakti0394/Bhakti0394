@@ -5,15 +5,7 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&color=2F81F7&center=true&vCenter=true&width=650&lines=Java+%2B+Spring+Boot+%2B+React+%2B+TypeScript+%2B+PostgreSQL;JWT+Auth+%7C+Real-Time+SSE+%7C+State+Machines+%7C+Concurrency;Turning+complex+backend+problems+into+clean+APIs" alt="Typing SVG" />
 </p>
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/bhakti-nimaj-aa356327b/">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="https://github.com/Bhakti0394">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
-  <img src="https://img.shields.io/badge/Open_to-Internships_%26_Collabs-2F81F7?style=for-the-badge" />
-</p>
+
 
 <div align="center">
 
